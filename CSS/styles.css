@@ -1,0 +1,116 @@
+
+body {
+margin: 0;
+text-align:center;
+font-family: 'Merriweather',serif;
+
+
+}
+
+h1 {
+margin-top:0;
+font-family: 'Sacramento',cursive;
+font-size: 5.625rem;
+margin: 50px auto 0 auto;
+color: #c75643;
+
+}
+
+h2 {
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  font-weight:bold;
+  color: #c75643;
+
+
+}
+
+h3 {
+
+  font-family: 'Montserrat',sans-serif;
+  color: #f05454;
+  font-weight: bolder
+
+}
+
+h4 {
+  font-family: 'Montserrat',sans-serif;
+  color: #f05454;
+
+
+}
+
+.top-container  {
+  background-color: #f9f7cf;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+
+
+}
+
+.middle-container{
+  background-color: #f9f7cf;
+
+
+}
+
+.bottom-container {
+  background-color: #f9f7cf;
+color: #c75643
+}
+
+
+.footer-link {
+  color:#c75643
+
+}
+
+.btn {
+  color: #c75643
+
+}
+
+.actor{
+  text-decoration: underline;
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 350px;
+  top: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px
+}
+
+.profilepicture {
+  height: 400px;
+  width: 400px
+}
+
+.weightloss {
+  height: 300px;
+  width: 300px
+
+}
+
+.japan{
+  height: 300px;
+  width: 300px
+}
+
+.webddevelopment {
+  height: 300px;
+  width: 300px;
+}
+
+.dinosaur{
+  height:100px;
+  width: 100px
+}
